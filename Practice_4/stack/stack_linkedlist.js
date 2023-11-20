@@ -40,4 +40,5 @@ stack.push(23)
 stack.push(230)
 stack.push(2341)
 
-//stack.pop()  //to check in console
+stack.pop()  
+//to check in console

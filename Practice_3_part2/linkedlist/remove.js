@@ -111,5 +111,7 @@ list.push(201)
 list.push(250)
 list.push(350)
 
-
-// list.remove(0) to check in console
+console.log(list)
+list.remove(0) 
+console.log(list)
+//to check in console
