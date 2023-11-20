@@ -21,11 +21,11 @@ class Node{
 // }
 
   // uncomment first
-  // let first = new Node("Hi")
-  // first.next = new Node("there")
-  // first.next.next = new Node("how")
-  // first.next.next.next = new Node("are")
-  // first.next.next.next.next = new Node("you")
+  let first = new Node("Hi")
+  first.next = new Node("there")
+  first.next.next = new Node("how")
+  first.next.next.next = new Node("are")
+  first.next.next.next.next = new Node("you")
 
   // uncomment third
 // let list = new SinglyLinkedList()
